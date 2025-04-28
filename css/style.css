@@ -1,0 +1,8 @@
+@charset "utf-8";
+
+:root {
+    --NotoSans: "Noto Sans KR", sans-serif;
+    --Montserrat: "Montserrat", sans-serif;
+    --Montaga: "Montaga", serif;
+    --main-color: #c27a34;
+}
